@@ -1,0 +1,27 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopw/Udemy_NodeJS.git"
+  },
+  "author": "Bruno Warwzeniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunopw/Udemy_NodeJS/issues"
+  },
+  "homepage": "https://github.com/brunopw/Udemy_NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.1",
+    "mysql": "^2.13.0"
+  }
+}
